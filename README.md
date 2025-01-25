@@ -2,7 +2,7 @@
 
 I'm Harish. I work as a full-time software engineer. In my spare time I do open-sourcing.
 
-Most of my open-source 🚀 projects are focused on - **learning new things and to help people learn** 📚. You may use these projects to learn about computer science fundamentals and get prepared for technical interviews, or to learn Python and Go language and start experimenting with machine learning algorithms and math behind them, etc.
+Most of my open-source 🚀 projects are focused on - **learning new things and to help people learn** 📚. You may use these projects to learn about computer science fundamentals and get prepared for technical interviews, or to learn C#, Python and Go language and start experimenting with machine learning algorithms and math behind them, etc.
 
 ### Getting in touch
 <a href="https://www.linkedin.com/in/harishshisode/" title="Follow me on LinkedIn" rel="nofollow">
