@@ -69,7 +69,7 @@
 
 ## 🌐 GitHub Pages
 > 🚀 Visit my public Go learning portfolio:  
-[**🔗 shisodeharish.github.io/learning-go-book-examples**](https://shisodeharish.github.io/learning-go-book-examples)
+[**🔗 shisodeharish.github.io/learning-go-book-examples**](https://github.com/shisodeharish/learning-go-book-examples)
 
 ---
 
