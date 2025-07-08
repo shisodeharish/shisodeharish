@@ -5,6 +5,10 @@ I'm Harish. I work as a full-time software engineer. In my spare time I do open-
 Most of my open-source 🚀 projects are focused on - **learning new things and to help people learn** 📚. You may use these projects to learn about computer science fundamentals and get prepared for technical interviews, or to learn Go language, Python and start experimenting with machine learning algorithms and math behind them, etc.
 
 ### Getting in touch
+<a href="https://learningdiary.me/" title="Follow me on Learning Diary" rel="nofollow">
+  <img width="24" alt="Follow me on Learning Diary" src="https://github.com/shisodeharish/shisodeharish/blob/main/assets/icons/ld-icon.svg" style="max-width: 100%;"></a>
+</a>
+
 <a href="https://www.linkedin.com/in/harishshisode/" title="Follow me on LinkedIn" rel="nofollow">
   <img width="24" alt="Follow me on LinkedIn" src="https://github.com/shisodeharish/shisodeharish/blob/main/assets/icons/LinkedIN.svg" style="max-width: 100%;"></a>
 
