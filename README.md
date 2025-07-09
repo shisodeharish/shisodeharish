@@ -3,22 +3,24 @@
 
 🚀 I’m a full-time Software Engineer with a passion for clean architecture, Go backend systems, and helping others grow through open-source.
 
+---
+
 ## 📚 About Me
-- 🔭 Currently building production-grade Go CLI and REST apps
-- 🌱 Exploring systems design, encryption, and cloud-native tooling (AWS, Kafka, MongoDB)
-- 💬 Ask me about backend, DevOps, or how to learn Go effectively
-- 📫 Connect with me: [🌐 learningdiary.me](https://learningdiary.me)
+- 🔭 Building production-grade Go CLI and REST systems
+- 🌱 Learning deeper system design, cryptography, and cloud-native tooling (AWS, Kafka, MongoDB)
+- 💬 Ask me about backend engineering, DevOps, or how to learn Go effectively
+- 📫 [Visit my portfolio](https://learningdiary.me)
 
 ---
 
 ## 🔧 Skills & Tools
 
-### 🧠 Languages & Runtime
+### 🧠 Languages
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
 
-### ☁️ Cloud & DevOps (Azure-first)
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
@@ -26,7 +28,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
 
-### 🧱 Architecture & APIs
+### 🔨 Architecture & APIs
 ![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat&logo=vercel)
 ![REST APIs](https://img.shields.io/badge/-REST%20API-005571?style=flat&logo=swagger)
 ![gRPC](https://img.shields.io/badge/-gRPC-0080FF?style=flat&logo=grpc)
@@ -42,35 +44,30 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Cosmos DB](https://img.shields.io/badge/-Cosmos%20DB-0078D4?style=flat&logo=azurecosmosdb)
 
-### 🧪 Testing & Observability
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus)
+### 📈 Observability & Testing
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
-### 🧰 Dev Tools
+### 🧰 Developer Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Make](https://img.shields.io/badge/-Makefile-000000?style=flat&logo=gnubash)
 
 ---
 
-## 📌 Pinned Projects
-- [VaultCLI](https://github.com/shisodeharish/vaultcli): 🔐 Enterprise-grade CLI vault with MFA, AES-GCM, versioning & TTL
-- [Learning Go Examples](https://github.com/shisodeharish/learning-go-book-examples): 📘 Structured journey through “Learning Go” with CI, Makefiles & modular code
-- [GoDSA – Beyond CTCI](https://github.com/shisodeharish/go-dsa-beyond-ctci): 🔍 Data structures & algorithms in idiomatic Go with tests, enterprise structure, and GitHub Actions
+## 📌 Featured Projects
 
----
-
-## 📈 GitHub Stats
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shisodeharish&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=shisodeharish&theme=tokyonight)
+- [VaultCLI](https://github.com/shisodeharish/vaultcli): 🔐 Secure CLI vault using Go, with MFA, AES-GCM, TTL, and versioning
+- [Learning Go Examples](https://github.com/shisodeharish/learning-go-book-examples): 📘 Step-by-step Go journey with clean modular design, CI, and testable code
+- [GoDSA – Beyond CTCI](https://github.com/shisodeharish/go-dsa-beyond-ctci): 🔍 Data structures & algorithms in idiomatic Go, with unit tests, modular code, and GitHub Actions integration
 
 ---
 
 ## 🌐 GitHub Pages
-> 🚀 Visit my public Go learning portfolio:  
-[**🔗 shisodeharish.github.io/learning-go-book-examples**](https://github.com/shisodeharish/learning-go-book-examples)
+> 🔗 Explore my live Go learning projects:  
+[shisodeharish.github.io/learning-go-book-examples](https://shisodeharish.github.io/learning-go-book-examples)
 
 ---
 
