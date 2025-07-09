@@ -68,6 +68,19 @@ I’m a full-time Software Engineer with a passion for clean architecture, Go ba
 
 ---
 
+## 📊 Learning Contributions
+
+| Project                     | Areas Explored                                  | Key Takeaways                                      |
+|----------------------------|--------------------------------------------------|----------------------------------------------------|
+| **VaultCLI**               | CLI, MFA, AES-GCM, TTL, Secrets Mgmt             | Built secure CLI vault from scratch in Go          |
+| **Learning Go Examples**   | Go fundamentals, CI/CD, Modular Design           | Reinforced core Go concepts with best practices    |
+| **GoDSA – Beyond CTCI**    | Data structures, tests, Markdown Docs            | Implemented DSA in idiomatic Go with automation    |
+| **learningdiary.me**       | Docsify, GitHub Pages, Engineering Blogs         | Personal knowledge hub and open-source showcase    |
+
+> 🔁 Continuously improving Go, system design, DevOps, and cryptography through self-driven projects and structured reflections.
+
+---
+
 ## 📚 Noteworthy Repositories
 
 | Project | Description | Tech Stack |
