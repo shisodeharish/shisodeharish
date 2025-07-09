@@ -69,6 +69,9 @@
 > 🔗 Explore my live Go learning projects:  
 [shisodeharish.github.io/learning-go-book-examples](https://shisodeharish.github.io/learning-go-book-examples)
 
+> 📘 Dive into data structures & algorithms (Beyond CTCI):  
+[shisodeharish.github.io/go-dsa-beyond-ctci](https://shisodeharish.github.io/go-dsa-beyond-ctci)
+
 ---
 
 🧠 _“Crafting systems with clarity, security, and purpose.”_
