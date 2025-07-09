@@ -58,6 +58,7 @@
 ## 📌 Pinned Projects
 - [VaultCLI](https://github.com/shisodeharish/vaultcli): 🔐 Enterprise-grade CLI vault with MFA, AES-GCM, versioning & TTL
 - [Learning Go Examples](https://github.com/shisodeharish/learning-go-book-examples): 📘 Structured journey through “Learning Go” with CI, Makefiles & modular code
+- [GoDSA – Beyond CTCI](https://github.com/shisodeharish/go-dsa-beyond-ctci): 🔍 Data structures & algorithms in idiomatic Go with tests, enterprise structure, and GitHub Actions
 
 ---
 
